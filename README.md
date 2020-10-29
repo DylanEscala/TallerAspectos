@@ -18,4 +18,4 @@ https://github.com/DylanEscala/TallerAspectos/issues/4
 ![captura-taller2](https://user-images.githubusercontent.com/73241931/97535183-3bd59880-1989-11eb-9e3a-cc7aa71ba91c.png)
 
 --Dylan Escala
-![Dylan](https://github.com/DylanEscala/TallerAspectos/issues/6#issue-732396684)
+![Dylan](https://user-images.githubusercontent.com/59785329/97592123-5120e600-19ce-11eb-9dc0-964bfee23c67.png)
