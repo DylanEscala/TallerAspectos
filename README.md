@@ -9,3 +9,7 @@ Captura 2: ![Aspecto2](https://user-images.githubusercontent.com/57923545/975168
 -- Andres Toala
 Capturas de aspectos
 https://github.com/DylanEscala/TallerAspectos/issues/2
+
+--Joel Alvarado
+Captura de aspectos
+https://github.com/DylanEscala/TallerAspectos/issues/4
