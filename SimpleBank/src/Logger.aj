@@ -9,7 +9,6 @@ public aspect Logger {
     File file = new File("log.txt");
     Calendar cal = Calendar.getInstance();
     //Aspecto: Deben hacer los puntos de cortes (pointcut) para crear un log con los tipos de transacciones realizadas.
-    
     pointcut creado() : call(* create*(..) );
     after() : creado() {
     //Aspecto ejemplo: solo muestra este mensaje después de haber creado un usuario 
