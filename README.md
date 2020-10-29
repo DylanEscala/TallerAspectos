@@ -17,3 +17,5 @@ https://github.com/DylanEscala/TallerAspectos/issues/4
 --Alexandra Ramos 
 ![captura-taller2](https://user-images.githubusercontent.com/73241931/97535183-3bd59880-1989-11eb-9e3a-cc7aa71ba91c.png)
 
+--Dylan Escala
+![Dylan](https://github.com/DylanEscala/TallerAspectos/issues/6#issue-732396684)
