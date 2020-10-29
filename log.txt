@@ -1,2 +1,4 @@
 Tiempo de Transaccion20:40:21 - Tipo:Deposito de Dinero
 Tiempo de Transaccion20:43:09 - Tipo:Deposito de Dinero
+DEPOSITO;9-34-14
+DEPOSITO;9-38-23
