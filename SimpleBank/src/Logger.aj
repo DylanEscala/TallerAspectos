@@ -19,7 +19,7 @@ public aspect Logger {
     		String hour = Integer.toString(cal.get(Calendar.HOUR));
     		String minute = Integer.toString(cal.get(Calendar.MINUTE));
     		String second = Integer.toString(cal.get(Calendar.SECOND));
-        	String contenido = "DEPOSITO;" + hour + "-" + minute + "-" + second;
+        	String contenido = "DEPOSITO;" + hour + ":" + minute + ":" + second;
         	if(!file.exists()){
         	   file.createNewFile();
         	}
@@ -32,13 +32,14 @@ public aspect Logger {
         	ioe.printStackTrace();
         }
 	}
+    //agregar
     pointcut retirado() : call(* moneyWith*(..));
     after() : retirado(){
     	try(BufferedWriter bw = new BufferedWriter(new FileWriter(file,true));){
     		String hour = Integer.toString(cal.get(Calendar.HOUR));
     		String minute = Integer.toString(cal.get(Calendar.MINUTE));
     		String second = Integer.toString(cal.get(Calendar.SECOND));
-        	String contenido = "RETIRO;" + hour + "-" + minute + "-" + second;
+        	String contenido = "RETIRO;" + hour + ":" + minute + ":" + second;
         	if(!file.exists()){
         	   file.createNewFile();
         	}

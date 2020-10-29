@@ -13,3 +13,5 @@ https://github.com/DylanEscala/TallerAspectos/issues/2
 --Joel Alvarado
 Captura de aspectos
 https://github.com/DylanEscala/TallerAspectos/issues/4
+
+--Alexandra Ramos 
